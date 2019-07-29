@@ -1,1 +1,1 @@
-declare module 'svg-icons';
+declare module 'ky-svg-icon';
