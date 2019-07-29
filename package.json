@@ -1,6 +1,6 @@
 {
   "name": "ky-svg-icon",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Unified management of all SVG-based icon icons in the project",
   "main": "index.js",
   "scripts": {
