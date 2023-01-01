@@ -19,7 +19,7 @@
   "devDependencies": {
     "eslint": "^6.1.0",
     "typescript": "^3.5.3",
-    "webpack": "^4.38.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.7.2"
   }
 }
